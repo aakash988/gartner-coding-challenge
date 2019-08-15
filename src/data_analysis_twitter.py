@@ -64,7 +64,6 @@ def word_analysis(path, root):
     clean_text = df['clean_text'].tolist()
 
     all_words = ' '.join([text for text in clean_text])
-    print(all_words)
     from wordcloud import WordCloud
     wordcloud = WordCloud(width=900, height=700, random_state=21, max_font_size=110, collocations=False).generate(
         all_words)

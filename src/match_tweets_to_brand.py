@@ -112,4 +112,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print('Creating CSV Files...')
     main()
+    print('CSV Files created!')
