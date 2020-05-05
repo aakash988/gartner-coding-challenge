@@ -1,6 +1,6 @@
 # What is this?
 
-The Gartner Coding Challenge is a case study that explores the benchmarking of search visibility for different vehicle brands.
+This coding challenge is a case study that explores the benchmarking of search visibility for different vehicle brands.
 The data used to benchmark search visibility are tweets from twitter.
 
 This project provides a solution to this case study. The case study itself is made up of four major steps: 
